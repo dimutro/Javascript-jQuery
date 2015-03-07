@@ -1,0 +1,12 @@
+.mainblock {
+	margin: 100px auto;
+	height: 640px;
+	width: 640px;
+}
+
+#square {
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	width: 40px;
+}
